@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Fahim Muntasir
 
 #### Your section leader's name
 
-TODO
+Daniel Blitshtein
 
 #### Project title
 
-TODO
+Honeycomb
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+We have initially designed the game idea, planned how it will work, and started the coding. We also discussed the game rules, layout, and some main features we want to add.
 
 #### What have you not done for your project yet?
 
-TODO
+We have not finished the full coding yet. Some features, testing, debugging, and final design changes are still left to do.
 
 #### What problems, if any, have you encountered?
 
-TODO
+So far, we faced some small coding issues and confusion about how to implement certain parts of the game, but we are working through them step by step.
